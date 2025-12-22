@@ -5,7 +5,7 @@ In other words, master the logic before analyzing real-world complexity.
 A/B testing is one of the most essential tools in data science, whether you're optimizing user experience, increasing revenue, or validating product decisions.
 This repo shows how I approach experimentation with clarity, rigor, and reproducibility. It's not just statistical significance I was looking for, but practical significance.
 
-1. Simulation: Learning the Core Concepts
+### 1. Simulation: Learning the Core Concepts
 Before touching real data, I built a fully controlled A/B test simulation to understand:
 
 * How random assignment works
@@ -29,9 +29,9 @@ This simulation allowed me to practice the entire workflow, which included:
 * Running statistical tests
 
 * Visualizing distributions
+<br></br>
 
-
-2. Real A/B Test: Revenue‑Based Experiment
+### 2. Real A/B Test: Revenue‑Based Experiment
 After building confidence with simulation, I moved on to a real dataset containing:
 
 * `USER_ID`
