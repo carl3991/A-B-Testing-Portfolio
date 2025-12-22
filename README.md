@@ -4,6 +4,7 @@ This repository documents my journey from learning the fundamentals through simu
 In other words, master the logic before analyzing real-world complexity.
 A/B testing is one of the most essential tools in data science, whether you're optimizing user experience, increasing revenue, or validating product decisions.
 This repo shows how I approach experimentation with clarity, rigor, and reproducibility. It's not just statistical significance I was looking for, but practical significance.
+<br></br>
 
 ### 1. Simulation: Learning the Core Concepts
 Before touching real data, I built a fully controlled A/B test simulation to understand:
@@ -17,6 +18,7 @@ Before touching real data, I built a fully controlled A/B test simulation to und
 * How sample size affects statistical power
 
 * How to interpret results for business stakeholders
+<br></br>
 
 This simulation allowed me to practice the entire workflow, which included:
 
