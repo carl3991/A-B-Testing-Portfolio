@@ -1,9 +1,9 @@
 # A/B Testing Portfolio: From Simulation to Real Impact
 Welcome to the A/B Testing portfolio.
 This repository documents my journey from learning the fundamentals through simulation to applying those skills on real datasets that drive business insights.
-In other words, master the logic before analyzing real-world complexity.
-A/B testing is one of the most essential tools in data science, whether you're optimizing user experience, increasing revenue, or validating product decisions.
-This repo shows how I approach experimentation with clarity, rigor, and reproducibility. It's not just statistical significance I was looking for, but practical significance.
+In other words, it's about mastering the logic behind it before analyzing its real-world complexity.
+I've learned that A/B testing is one of the most essential tools in data science, whether for optimizing user experience, increasing revenue, or validating product decisions.
+This repo shows how I approach experimentation with clarity, rigor, and reproducibility. It's not just statistical significance I was looking for, but practical significance and real impact.
 <br></br>
 
 ### 1. Simulation: Learning the Core Concepts
@@ -13,7 +13,7 @@ Before touching real data, I built a fully controlled A/B test simulation to und
 
 * How conversion and revenue metrics behave
 
-* How to compute lift, confidence intervals, and p‑values
+* How to compute confidence intervals, and p‑values
 
 * How sample size affects statistical power
 
