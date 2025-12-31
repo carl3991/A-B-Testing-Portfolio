@@ -11,7 +11,7 @@ Before touching real data, I built a fully controlled A/B test simulation to und
 
 * How random assignment works
 
-* How conversion and revenue metrics behave
+* How engagement metrics bevave
 
 * How to compute confidence intervals, and p‑values
 
@@ -26,7 +26,7 @@ This simulation allowed me to practice the entire workflow, which included:
 
 * Assigning them to control/variant
 
-* Simulating conversions and revenue
+* Simulating different A/B test metrics
 
 * Running statistical tests
 
@@ -37,20 +37,22 @@ This simulation allowed me to practice the entire workflow, which included:
 After building confidence with simulation, I moved on to a real dataset containing:
 
 * `USER_ID`
-
-* `VARIANT_NAME `(control vs. variant)
-
-* `REVENUE` per user
-
+* `GROUP` (A vs. B)
+* `PAGE_VIEWS`
+* `TIME_SPENT`
+* `CONVERSION` (YES/NO)
+* `DEVICE` (MOBILE/DESKTOP)
+* `LOCATION`
+<br></br>
 
 Key questions explored:
-* Does the variant increase conversion rate?
+* Does the variant increase average page views?
 
-* Does it increase average revenue per user (ARPU)?
+* Does it increase average time-on-page?
 
-* Does it increase average revenue per paying user (ARPPU)?
+* Are engagement differences statistically significant?
 
-* Is the lift statistically significant?
+* Do device type or location influence results?
 
-* What business decision should follow?
+* What version should the company adopt based on the evidence?
 
