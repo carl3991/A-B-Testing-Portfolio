@@ -33,7 +33,7 @@ This simulation allowed me to practice the entire workflow, which included:
 * Visualizing distributions
 <br></br>
 
-### 2. Real A/B Test: Revenue‑Based Experiment
+### 2. Real A/B Test: Time-on-Page and Page Views Experiment
 After building confidence with simulation, I moved on to a real dataset containing:
 
 * `USER_ID`
