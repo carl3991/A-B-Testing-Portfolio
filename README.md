@@ -46,9 +46,7 @@ After building confidence with simulation, I moved on to a real dataset containi
 <br></br>
 
 Key questions explored:
-* Does the variant increase average page views?
-
-* Does it increase average time-on-page?
+* Does the variant increase average page views and average time-on-page?
 
 * Are engagement differences statistically significant?
 
