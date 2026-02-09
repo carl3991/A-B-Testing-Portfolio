@@ -54,3 +54,41 @@ Key questions explored:
 
 * What version should the company adopt based on the evidence?
 
+<br></br>
+
+### 3. Real A/B Test: Revenue‑Based Experiment
+After exploring engagement metrics, I expanded the portfolio with a second real‑world experiment focused on monetization. This experiment emphasized the importance of data cleaning, user‑level aggregation, and interpreting mutliple revenue metrics together.
+
+This dataset included:
+
+* `USER_ID`
+
+* `VARIANT_NAME` (control vs. variant)
+
+* `REVENUE` per user
+
+Because the raw data was event‑level and contained repeated users, I first removed exact duplicates and then aggregated to user‑level to ensure fair comparisons. This preprocessing step was essential for producing reliable revenue metrics.
+
+Key metrics analyzed:
+
+* ARPU (Average Revenue Per User):  overall monetization impact
+
+* CR (Conversion Rate): percentage of users generating revenue
+
+ARPPU (Average Revenue Per Paying User): revenue quality among converters
+
+<br></br>
+Key questions explored:
+
+* Does the variant increase overall revenue per user?
+
+* Are conversion differences meaningful or just random variation?
+
+* Does the variant attract more paying users?
+
+
+
+
+
+
+
