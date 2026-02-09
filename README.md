@@ -75,7 +75,7 @@ Key metrics analyzed:
 
 * CR (Conversion Rate): percentage of users generating revenue
 
-ARPPU (Average Revenue Per Paying User): revenue quality among converters
+* ARPPU (Average Revenue Per Paying User): revenue quality among converters
 
 <br></br>
 Key questions explored:
